@@ -1,6 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-  },
-  "postCreateCommand: "sudo apt install bat"
+  "name": "Python 3.10 Debion Bullseye w/Batcat",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10-bullseye",
+  "features": {},
+  "postCreateCommand": "sudo apt install bat"
 }
