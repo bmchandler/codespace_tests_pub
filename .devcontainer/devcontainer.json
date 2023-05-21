@@ -2,5 +2,6 @@
   "name": "Python 3.10 Debion Bullseye w/Batcat",
   "image": "mcr.microsoft.com/devcontainers/python:3.10-bullseye",
   "features": {},
-  "postCreateCommand": "bash .devcontainer/postCreateCommand.sh"
+  "postCreateCommand": "bash .devcontainer/postCreateCommand.sh",
+  "files.exclude": {},
 }
